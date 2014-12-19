@@ -2,10 +2,12 @@ package com.valgriz.main;
 
 public class GitClass {
 
-	// trying to commmit this class to git
-
 	public GitClass() {
-		// lol node.js masterrace
+	
+	}
+	
+	public String toString(){
+		return "I am doing this to see if I can get git to work!";
 	}
 
 }
